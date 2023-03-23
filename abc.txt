@@ -1,3 +1,6 @@
 abcccc
 edited - aaabbcccc
+
+modifying through branch2 - abc, abc
+
 edited through main - aaa
